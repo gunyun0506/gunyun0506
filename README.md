@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi! 👋 I'm gunyun
+#### Ajou University student studying Software
+---------------------------------------------------------------------
 
-<!--
-**gunyun0506/gunyun0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+ <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![bear_1f43b](https://user-images.githubusercontent.com/122507184/220543875-857cbb3e-ea8e-4bab-82a8-0cc0f0fa7dc9.png)
